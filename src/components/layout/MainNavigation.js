@@ -8,7 +8,7 @@ function MainNavigation() {
   return (
     <header className={classes.header}>
       <div className={classes.logo}>
-        <Link to="/">React Meetusp</Link>
+        <Link to="/">React Meetups</Link>
       </div>
       <nav>
         <ul>
