@@ -9,6 +9,7 @@ function MainNavigation() {
     <header className={classes.header}>
       <div className={classes.logo}>
         <Link to="/">React Meetups</Link>
+        
       </div>
       <nav>
         <ul>
